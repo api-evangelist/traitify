@@ -1,0 +1,32 @@
+aid: traitify
+name: Traitify
+description: "Assess, collect and analyze Personality"
+url: https://app.traitify.com/developer
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Personality"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Personality
+  - Public APIs
+apis:
+  - name: Traitify
+    description: "Assess, collect and analyze Personality"
+    humanURL: https://app.traitify.com/developer
+    baseURL: https://app.traitify.com/developer
+    tags:
+      - Personality
+    properties:
+      - type: Documentation
+        url: https://app.traitify.com/developer
+common:
+  - type: Website
+    url: https://app.traitify.com/developer
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
