@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://app.traitify.com/developer
 common:
+  - type: DomainSecurity
+    url: security/traitify-domain-security.yml
   - type: Website
     url: https://app.traitify.com/developer
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.traitify.com/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
