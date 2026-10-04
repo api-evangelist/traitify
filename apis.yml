@@ -39,7 +39,6 @@ apis:
   - name: Traitify
     description: "Assess, collect and analyze Personality"
     humanURL: https://app.traitify.com/developer
-    baseURL: https://app.traitify.com/developer
     tags:
       - Personality
     properties:
